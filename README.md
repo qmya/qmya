@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Open sources contribution and also focusing to sharpening my skills of Javascript.
 - 😄 Pronouns: she/her 👧
 - ⚡ Fun fact: ...
-- 📫 How to reach me:<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> https://www.linkedin.com/in/qandeel-mya/ and https://twitter.com/QandeelMya
+- 📫 How to reach me:<img src="https://www.linkedin.com/in/qandeel-mya/" />  and https://twitter.com/QandeelMya
 <!--
 **qmya/qmya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

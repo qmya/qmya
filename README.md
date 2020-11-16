@@ -1,7 +1,4 @@
 ### Hi there 👋 I'm Qandeel Mya :Smile:
-
-<!--
-**qmya/qmya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 A software engineer passionate about front-end development 💕
 
 Here are some ideas to get you started:
@@ -10,4 +7,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her 👧
 - ⚡ Fun fact: ...
 - 📫 How to reach me: https://www.linkedin.com/in/qandeel-mya/ and https://twitter.com/QandeelMya
+
+
+
+<!--
+**qmya/qmya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 -->

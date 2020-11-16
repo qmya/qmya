@@ -1,4 +1,4 @@
-![Brown and Cream Motivational LinkedIn Banner](https://user-images.githubusercontent.com/63254870/99298015-11079300-2817-11eb-8ef8-a04e8064a086.png)
+![Brown and Cream Motivational LinkedIn Banner (1)](https://user-images.githubusercontent.com/63254870/99305375-b0318800-2821-11eb-9246-47ca6948befd.png)
 
 # Hi there 👋 I'm Qandeel Mya
 

@@ -13,6 +13,4 @@ A web developer passionate about front-end development 💕
 
 ![Qandeel Mya's github stats](https://github-readme-stats.vercel.app/api?username=qmya&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qmya)](https://github.com/qmya/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qmya&layout=compact)](https://github.com/qmya/github-readme-stats)

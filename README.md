@@ -15,3 +15,4 @@ A web developer passionate about front-end development 💕
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qmya)](https://github.com/qmya/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qmya&langs_count=8)](https://github.com/qmya/github-readme-stats)

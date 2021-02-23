@@ -11,6 +11,3 @@ A web developer passionate about front-end development 💕
 &nbsp;
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/QandeelMya)
 
-![Qandeel Mya's github stats](https://github-readme-stats.vercel.app/api?username=qmya&show_icons=true&theme=radical)
-
-

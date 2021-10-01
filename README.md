@@ -5,7 +5,6 @@
 A web developer passionate about front-end development 💕
 
 - 🔭  I’m currently working on Open sources contribution and also focusing to sharpening my skills of Javascript.
-- 😄  Pronouns: she/her 👧
 - 📫  How to reach me:
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qandeel-mya/)
 &nbsp;
